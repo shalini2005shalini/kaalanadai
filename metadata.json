@@ -1,0 +1,8 @@
+{
+  "name": "Kalnadai Kaapagam (Livestock Care)",
+  "description": "A bilingual (Tamil/English) AI-powered livestock management assistant. Identify animals, diagnose health issues via camera/voice, and get remedies using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
